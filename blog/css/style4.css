@@ -1,0 +1,11 @@
+body {background-color: #63be53;font-family:system-ui}
+
+.a {color: #ffffff;text-decoration: none;font-size: 50px;background: linear-gradient(to left,#18aee5,#d3ff18);margin: 50px;padding-left: 9px;background-position: 100 200%}  
+
+.a:hover {background:  linear-gradient(#d3ff18,#18aee5);background-position: right}
+
+.b {color: #18aee5;text-decoration: none;font-size: 60px;background-color: #e58505;margin: 50px;}
+
+
+.c {color: #e201ff;text-decoration: none;font-size: 35px;margin: 50px;}
+
