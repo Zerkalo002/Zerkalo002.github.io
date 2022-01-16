@@ -48,10 +48,8 @@ p {color: #f0f0f0;
     padding: 5px 40px;
     border-radius: 40px;}
 
-.menu__link2 {text-decoration: none;
-    padding-left: 30px }
-
-nav {margin: 50px;
+nav {margin-left: 50px;
+    margin-top: 60px;
     padding-left: 50px;}
 
 ul {list-style-image:url(lol.png)}
