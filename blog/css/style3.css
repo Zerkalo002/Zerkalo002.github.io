@@ -39,7 +39,7 @@ p {color: #f0f0f0;
 
 .box {background-color: darkgray;
     margin: 0px auto;
-    padding-top: 0px auto;
+    padding-top: 15px;
 }
 
 .menu__link {text-decoration: none;
