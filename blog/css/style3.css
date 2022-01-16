@@ -40,7 +40,13 @@ p {color: #f0f0f0;
 .box {background-color: darkgray;
     margin: 0px auto}
 
-.menu__link {text-decoration: none;}
+.menu__link {text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    margin-right: 20px;
+    background: #f16e6e;
+    padding: 5px 40px;
+    border-radius: 40px;}
 
 .menu__link2 {text-decoration: none;
     padding-left: 30px }
