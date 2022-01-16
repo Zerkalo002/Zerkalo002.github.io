@@ -41,10 +41,10 @@ p {color: #f0f0f0;
     margin: 0px auto}
 
 .menu__link {text-decoration: none;
-    color: #fff;
+    color: #ffffe0;
     font-size: 18px;
     margin-right: 20px;
-    background: #f16e6e;
+    background: #ff1493;
     padding: 5px 40px;
     border-radius: 40px;}
 
