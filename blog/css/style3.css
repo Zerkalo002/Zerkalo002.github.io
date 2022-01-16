@@ -39,7 +39,7 @@ p {color: #f0f0f0;
 
 .box {background-color: darkgray;
     margin: 0px auto;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 .menu__link {text-decoration: none;
@@ -51,7 +51,7 @@ p {color: #f0f0f0;
     border-radius: 40px;}
 
 nav {margin-left: 50px;
-    margin-top: 80px;
+    margin-top: 40px;
     padding-left: 50px;}
 
 ul {list-style-image:url(lol.png)}
