@@ -4,7 +4,9 @@ body {background-color: aliceblue;
 
 img {width: 256px ;
     height: 128px ;padding-left: 50PX;
-    transition:2.75s}
+    transition:2.75s;
+    border-radius: 40px
+}
 
 h1 {color: #ff0093;
     padding-left: 50PX;
