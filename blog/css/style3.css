@@ -56,7 +56,9 @@ nav {margin-left: 50px;
     margin-top: 40px;
     padding-left: 50px;}
 
-ul {list-style-image:url(lol.png)}
+ul {list-style-image:url(lol.png);
+    margin: 20px
+}
 
 /* Адаптивный дизайн */
 
