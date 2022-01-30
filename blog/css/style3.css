@@ -58,13 +58,6 @@ nav {margin-left: 50px;
     transition: 1s
 }
 
-nav:hover {margin-left: 60px;
-    margin-top: 50px;
-    padding-left: 60px;
-    color: #fff9B4;
-    font-size: 28px
-}
-
 ul {list-style-image:url(lol.png);
     margin: 20px
 }
